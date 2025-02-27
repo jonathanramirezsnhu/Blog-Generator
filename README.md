@@ -1,7 +1,8 @@
 # Blog-Generator
 A simple blog generator using OpenAI
 
-I will atempt to explain the program using little to no technical terms.
+Note: For practicing purposes, I will atempt to explain the program using little to no technical terms.
+
 The first four lines of code are asking permission to OpenAI to use their API. This is done by purchasing an API key that allows us to use their services.
 Once we have this key, everytime the code runs, OpenAI will check that we have a valid key, if we do, then we are allowed to use whatever services we purchased.
 After we are granted accesss to the services, we create a function that will generate the blog response based on some given topic.
